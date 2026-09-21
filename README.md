@@ -4,6 +4,9 @@
 
 Paradise Nursery Shopping Application
 
+## Developed by 
+Syeda Rutba Eman
+
 ## Project Description
 
 Paradise Nursery is a React-based online plant shopping application.
